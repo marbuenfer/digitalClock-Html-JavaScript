@@ -1,6 +1,6 @@
 # digitalClock-Html-JavaScript
 
-#Reloj digital
+# Reloj digital
 
 Realizado con html, CSS y JavaScript.
  
